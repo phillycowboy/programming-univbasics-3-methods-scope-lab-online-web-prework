@@ -12,3 +12,8 @@ def link
   dangerous="It's Dangerous To Go Alone! Take This."
   puts dangerous
 end
+
+def all_phrases
+  mario
+  
+end
