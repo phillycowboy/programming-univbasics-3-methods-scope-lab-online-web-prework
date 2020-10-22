@@ -13,7 +13,7 @@ def link
   puts dangerous
 end
 
-def all_phrases(mario, toadstool, link)
+def all_phrases
   mario
   toadstool
   link
